@@ -1,0 +1,101 @@
+sentence,annotation
+"Chimborazo in the ocean and even whole ranges are still being discovered, and most of them have not yet been explored in detail.",B-MOUNT O O O O O O O O O O O O O O O O O O O O O O
+I would rather go to the Elbrus than to the beach.,O O O O O O B-MOUNT O O O O
+"Which do you like better, the sea or the Olympus?",O O O O O O O O O B-MOUNT
+Some people like the sea; others prefer the Annapurna.,O O O O O O O O B-MOUNT
+We watched the sun setting behind the Annapurna.,O O O O O O O B-MOUNT
+The Huascarán are a lush green in summer.,O B-MOUNT O O O O O O
+I was roaming over the Denali all through the night.,O O O O O B-MOUNT O O O O
+The Fuji in the Himalayas are higher than those in the Andes.,O B-MOUNT O O O O O O O O O B-MOUNT
+It was so nice a day that we went for a hike in the Cotopaxi.,O O O O O O O O O O O O O O B-MOUNT
+The girl is getting over Cook of difficulties.,O O O O O B-MOUNT O O
+The path twists through the Huascarán.,O O O O O B-MOUNT
+The Chimborazo look nicer from a distance.,O B-MOUNT O O O O O
+The two Denali are of equal height.,O O B-MOUNT O O O O
+The Chimborazo in this part of the country are full of variety.,O B-MOUNT O O O O O O O O O O
+This river rises in the Atlas in Nagano.,O O O O O B-MOUNT O O
+It's very pleasant here in the Cotopaxi.,O O O O O O B-MOUNT
+This dog is trained to save people in the Everest.,O O O O O O O O O B-MOUNT
+The moon is coming up over the K2.,O O O O O O O B-MOUNT
+"For a person who is in good physical condition, climbing Atlas is a cinch.",O O O O O O O O O O B-MOUNT O O O
+We could see the reflection of the Denali in the lake.,O O O O O O O B-MOUNT O O O
+A vast forest covers the Kilimanjaro.,O O O O O B-MOUNT
+The air is rare on high Huascarán.,O O O O O O B-MOUNT
+Nearly 80 percent of the land is Puncak Jaya.,O O O O O O O B-MOUNT I-MOUNT
+Why don't we go to the Elbrus this weekend?,O O O O O O B-MOUNT O O
+Those Cotopaxi over there have turned white this morning.,O B-MOUNT O O O O O O O
+The Cook are reflected in the lake.,O B-MOUNT O O O O O
+You cannot be careful in the Fuji.,O O O O O O B-MOUNT
+I anticipated a quiet vacation in the McKinley.,O O O O O O O B-MOUNT
+"We're going up into the Cook, so why don't you come with us?",O O O O O B-MOUNT O O O O O O O
+The sun descended behind the Cook.,O O O O O B-MOUNT
+It is warmer over the Mont Blanc.,O O O O O O B-MOUNT
+The air is very pure in the Cotopaxi.,O O O O O O O B-MOUNT
+In the Kilimanjaro it is not until the end of April that the snow disappears completely from the ground.,O O B-MOUNT O O O O O O O O O O O O O O O O
+Atlas look better viewed from a distance.,B-MOUNT O O O O O O
+The Everest lay covered with deep snow.,O B-MOUNT O O O O O
+Rainier are not necessarily green.,B-MOUNT O O O O
+The Cotopaxi are red against the blue sky.,O B-MOUNT O O O O O O
+My brother loves taking pictures of Annapurna.,O O O O O O B-MOUNT
+My town is surrounded by tall Matterhorn.,O O O O O O B-MOUNT
+I am thinking of going to the Annapurna.,O O O O O O O B-MOUNT
+I went to Nagano to take pictures of the Cotopaxi covered with snow.,O O O O O O O O O B-MOUNT O O O
+At one time I lived alone in the Atlas.,O O O O O O O O B-MOUNT
+I like Everest better than seas.,O O B-MOUNT O O O
+I climb Andes because they are there.,O O B-MOUNT O O O O
+I like to walk in the Chimborazo.,O O O O O O B-MOUNT
+I like climbing Cook.,O O O B-MOUNT
+I saw a chain of Annapurna.,O O O O O B-MOUNT
+I am going to write about our parks and McKinley.,O O O O O O O O O B-MOUNT
+I would go to the Cotopaxi when young.,O O O O O B-MOUNT O O
+I know better than to climb Denali in winter without making all necessary preparations beforehand.,O O O O O O B-MOUNT O O O O O O O O
+I don't like my brother climbing the Chimborazo.,O O O O O O O B-MOUNT
+We went to the McKinley to ski.,O O O O B-MOUNT O O
+Everything in the fields and Everest looks fresh when spring comes.,O O O O O B-MOUNT O O O O O
+Faith can move Cotopaxi.,O O O B-MOUNT
+They have climbed the highest Chimborazo and walked on the floor of the seas.,O O O O O B-MOUNT O O O O O O O O
+Look at the Cook covered with snow.,O O O B-MOUNT O O O
+Some snow-covered Matterhorn were seen in the distance.,O O B-MOUNT O O O O O
+The river descends from the Andes to the bay below.,O O O O O B-MOUNT O O O O
+You'll see a lot of high Cook through the window.,O O O O O O B-MOUNT O O O
+The Kilimanjaro have brought forth a mouse.,O B-MOUNT O O O O O
+The black and white bears living in the Huascarán of China and Tibet are called pandas.,O O O O O O O O B-MOUNT O O O B-MOUNT O O O
+"With winter coming on, the Rainier will soon be covered with snow.",O O O O O B-MOUNT O O O O O O
+You had better not climb such high Andes in winter.,O O O O O O O B-MOUNT O O
+Run and hide in the Huascarán.,O O O O O B-MOUNT
+Japan has a lot of beautiful Cook.,O O O O O O B-MOUNT
+His airplane crashed in the Cotopaxi.,O O O O O B-MOUNT
+He makes Rainier out of molehills.,O O B-MOUNT O O O
+He likes mountaineering and is at home with Japanese Aconcagua.,O O O O O O O O O B-MOUNT
+He's accustomed to climbing Matterhorn.,O O O O B-MOUNT
+He led his men and horses over snowy Cotopaxi and down into hot valleys.,O O O O O O O O B-MOUNT O O O O O
+They went to a resort in the Kilimanjaro last summer.,O O O O O O O B-MOUNT O O
+They couldn't decide whether to go to the Kilimanjaro or the sea.,O O O O O O O O B-MOUNT O O O
+Flat land has no K2 or hills.,O O O O B-MOUNT O O
+There are colossal McKinley in the north.,O O O B-MOUNT O O O
+"Playing baseball is a sport, and climbing Matterhorn is a sport, too.",O O O O O O O O B-MOUNT O O O
+The suspect was hiding out in the Andes for three weeks.,O O O O O O O B-MOUNT O O O
+"The UFO, with a zigzag movement you couldn't think of as being a plane, flew off into the Atlas in the east.",O O O O O O O O O O O O O O O O O O B-MOUNT O O O
+Tadami is in Minamiaizu in Fukushima; cut off by steep Rainier and located on the prefecture border with Niigata.,O O O O O O O O O O B-MOUNT O O O O O O O O
+"When warm, light, air crosses Puncak Jaya it rises into the upper atmosphere and does not fall back to the ground. In this, and other, ways wind changes with the terrain.",O O O O O O B-MOUNT I-MOUNT O O O O O O O O O O O O O O O O O O O O O O O
+"Even as we stand here tonight, we know there are brave Americans waking up in the deserts of Iraq and the Matterhorn of Afghanistan to risk their lives for us.",O O O O O O O O O O O O O O O O O O O O O B-MOUNT O O O O O O O O
+"Even as we stand here tonight, we know there are brave Americans waking up in the deserts of Iraq and the Olympus of Afghanistan, to risk their lives for us.",O O O O O O O O O O O O O O O O O O O O O B-MOUNT O O O O O O O O
+"When violent extremists operate in one stretch of Huascarán, people are endangered across an ocean.",O O O O O O O O B-MOUNT O O O O O O
+All the villagers went into the Olympus to look for a missing cat.,O O O O O O B-MOUNT O O O O O O
+Let's go for a walk to the Cotopaxi.,O O O O O O O O
+"There is definitely a way to quit the world and live like an hermit in the Olympus, being self-sufficient and without contact with anybody while not dying like a dog.",O O O O O O O O O O O O O O O O B-MOUNT O O O O O O O O O O O O O
+The salts and minerals found in these Matterhorn are quite diverse.,O O O O O O O B-MOUNT O O O
+I would have gone to the McKinley had I had the money.,O O O O O O B-MOUNT O O O O O
+This summer we'll go to the Everest and to the sea.,O O O O O O B-MOUNT O O O O
+I suggest that you visit some villages in the Annapurna.,O O O O O O O O O B-MOUNT
+We are going to the Aconcagua.,O O O O O B-MOUNT
+I like the Olympus more than I like the sea.,O O O B-MOUNT O O O O O O
+It's so grey out there that I can't see the K2 on the other side of the valley.,O O O O O O O O O O B-MOUNT O O O O O O O
+"With these eyes, I shall see Denali burn.",O O O O O O B-MOUNT O
+"The Olympus could be seen from afar, and it was a breathtaking sight.",O B-MOUNT O O O O O O O O O O O
+My parents met each other in the Fuji.,O O O O O O O B-MOUNT
+We're taking a crash course in first aid before our two-week trek through the Puncak Jaya.,O O O O O O O O O O O O O O B-MOUNT I-MOUNT
+The Aconcagua were all around the city.,O B-MOUNT O O O O O
+Tom loves to climb Mont Blanc.,O O O O B-MOUNT I-MOUNT
+The lake is surrounded by Puncak Jaya.,O O O O O B-MOUNT I-MOUNT
+Tom's dream is to live in the Mont Blanc.,O O O O O O O B-MOUNT I-MOUNT
