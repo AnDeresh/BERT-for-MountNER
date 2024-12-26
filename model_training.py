@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 import os
 
-from scripts.data_processing import *
+from scripts.data_processing_utils import *
 
 # Check and print whether CUDA is available, the version of PyTorch, and the GPU name (if available)
 # This section will display:

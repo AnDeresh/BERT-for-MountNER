@@ -45,6 +45,12 @@ This repository contains scripts for:
 - Data processing and tokenization for preparing the dataset (`Demo_model_training.ipynb`, `data_processing.py`).
 - Model and tokenizer files are stored under the `model/` and `tokenizer/` directories.
 
+### Example of Model Output
+
+Below is an example of the model's performance on test sentences:
+
+![Model Output Table](images/test_example.png)
+
 ### Key Scripts
 
 **model_training.py**
