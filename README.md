@@ -8,32 +8,33 @@ This project is designed to use a BERT-based model to predict mountain names fro
 BERT-FOR-MOUNTNER
 │
 ├── data
-│   ├── annotated_100.csv            # Annotated dataset used for training
-│   ├── preprocessed_data.pth        # Preprocessed data stored in PyTorch format
-│   └── test_dataset.csv             # Test dataset for trained model
+│   ├── annotated_100.csv                      # Annotated dataset used for training
+│   ├── preprocessed_data.pth                  # Preprocessed data stored in PyTorch format
+│   └── test_dataset.csv                       # Test dataset for trained model
 │
 ├── model
-│   ├── config.json                  # Configuration file for the model
-│   └── put_model_here.txt           # Placeholder for where to store the model
+│   ├── config.json                            # Configuration file for the model
+│   └── put_model_here.txt                     # Placeholder for where to store the model
 │
 ├── scripts
-│   ├── data_processing_utils.py     # Data preprocessing utilities
-│   └── inference_utils.py           # Utilities for inference
+│   ├── data_processing_utils.py               # Data preprocessing utilities
+│   └── inference_utils.py                    # Utilities for inference
 │
 ├── tokenizer
-│   ├── special_tokens_map.json      # Mapping for special tokens
-│   ├── tokenizer_config.json        # Tokenizer configuration
-│   ├── tokenizer.json               # Tokenizer file
-│   └── vocab.txt                    # Vocabulary file
+│   ├── special_tokens_map.json                # Mapping for special tokens
+│   ├── tokenizer_config.json                  # Tokenizer configuration
+│   ├── tokenizer.json                         # Tokenizer file
+│   └── vocab.txt                              # Vocabulary file
 │
-├── .gitignore                       # Git ignore file
-├── Dataset Creation.ipynb           # Notebook for dataset creation and augmentation
-├── Demo_model_inference.ipynb       # Notebook for running the inference demo
-├── Demo_model_training.ipynb        # Notebook for model training demo
-├── model_inference.py               # Script for inference
-├── model_training.py                # Script for model training
-├── README.md                        # This file
-└── requirements.txt                 # Python dependencies
+├── .gitignore                                 # Git ignore file
+├── Dataset Creation.ipynb                     # Notebook for dataset creation and augmentation
+├── Demo_model_inference.ipynb                 # Notebook for running the inference demo
+├── Demo_model_training.ipynb                  # Notebook for model training demo
+├── model_inference.py                         # Script for inference
+├── model_training.py                          # Script for model training
+├── README.md                                  # This file
+├── Report_with_potential_improvements.pdf     # Report with potential improvements of the model
+└── requirements.txt                           # Python dependencies
 ```
 
 ### Overview

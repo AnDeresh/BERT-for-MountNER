@@ -88,7 +88,7 @@ def extract_mountains(tokens: List[str], predicted_labels: List[str], tokenizer:
     """
     current_mountain = []  # Holds the current mountain name being built
     mountain_names = []  # List of fully formed mountain names
-    excluded_words = {'mount', 'mountain'}  # Exclude common terms unless part of a full name
+    excluded_words = {'mount', 'mountain', 'mountains'}  # Exclude common terms unless part of a full name
 
     for token, label in zip(tokens, predicted_labels):
         # Skip special tokens like [SEP], [CLS], [PAD], [UNK]
