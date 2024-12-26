@@ -1,0 +1,11 @@
+sentence,labels
+Mount Everest is the tallest mountain.,B-MOUNT I-MOUNT O O O O O
+I hiked in the Alps and the Pyrenees last summer.,O O O O B-MOUNT O O B-MOUNT O O O
+Kilimanjaro is in Tanzania.,B-MOUNT O O O O
+This sentence does not mention a mountain.,O O O O O O O O
+"Denali, also known as Mount McKinley, is in Alaska.",B-MOUNT O O O B-MOUNT I-MOUNT O O O O O O
+The Andes are a stunning mountain range in South America.,O B-MOUNT O O O O O O O O O
+I visited Table Mountain in South Africa last year.,O O B-MOUNT I-MOUNT O O O O O O
+Mount Fuji is an active volcano in Japan.,B-MOUNT I-MOUNT O O O O O O O
+Rocky Mountains extend across the United States and Canada.,B-MOUNT I-MOUNT O O O O O O O O
+Mount Elbrus is the highest peak in Europe.,B-MOUNT I-MOUNT O O O O O O O

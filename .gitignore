@@ -1,1 +1,5 @@
 .vs/
+.myenv-NER/
+model_folder/model/model.safetensors
+.scripts/__pycache__
+.__pycache__
