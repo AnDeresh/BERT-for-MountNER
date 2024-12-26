@@ -1,5 +1,12 @@
+# Ignore Visual Studio files
 .vs/
+
+# Ignore virtual environment directory
 .myenv-NER/
+
+# Ignore Python bytecode cache
 .scripts/__pycache__
 .__pycache__
+
+# Ignore large model files
 model/model.safetensors
